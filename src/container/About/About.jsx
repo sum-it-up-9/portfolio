@@ -8,10 +8,10 @@ const About = () => {
 
     const abouts=[
         {
-            title:'Easybite', description:'A ReactJS web app enabling users to search, filter, and order from restaurants, add items to cart, and mark favorites.', imgUrl:images.about04, link:'https://easybite.netlify.app/'
+            title:'Easybite', description:'A ReactJS web app enabling users to search, filter, and order from restaurants, add items to cart, and mark favorites.', imgUrl:images.about04, link:'https://easybite.vercel.app/'
         },
         {
-            title:'Commercecraft', description:'A MERN based ecommerce platform empowering users to browse, filter, and purchase products seamlessly',imgUrl:images.about01, link:'https://commercecraft.netlify.app/'
+            title:'Commercecraft', description:'A MERN based ecommerce platform empowering users to browse, filter, and purchase products seamlessly',imgUrl:images.about01, link:'https://commercecraftt.vercel.app/'
         },
         {
             title:'Freelancegigs', description:'A freelance marketplace built with ReactJS, facilitating users to discover, filter, and engage with gigs effortlessly.', imgUrl:images.about03, link:'https://freelancegigs.netlify.app/'

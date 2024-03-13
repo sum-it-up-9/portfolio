@@ -14,7 +14,7 @@ const About = () => {
             title:'Commercecraft', description:'A MERN based ecommerce platform empowering users to browse, filter, and purchase products seamlessly',imgUrl:images.about01, link:'https://commercecraftt.vercel.app/'
         },
         {
-            title:'Freelancegigs', description:'A freelance marketplace built with ReactJS, facilitating users to discover, filter, and engage with gigs effortlessly.', imgUrl:images.about03, link:'https://freelancegigs.netlify.app/'
+            title:'Freelancegigs', description:'A freelance marketplace built with ReactJS, facilitating users to discover, filter, and engage with gigs effortlessly.', imgUrl:images.about03, link:'https://freelancegigs.vercel.app/'
         },
         {
           title:'SocialConnecti',
